@@ -7,8 +7,6 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
     "ctas": [
       {
         "label": "Read The Blog",
@@ -24,7 +22,9 @@
       }
     ],
     "image": "../images/cafe-2.jpg",
-    "large": true
+    "large": true,
+    "headline": "Welcome to Indie TLV.",
+    "textline": "A founders community. Let's win together."
   },
   "displayTitle": false,
   "title": "Home"
