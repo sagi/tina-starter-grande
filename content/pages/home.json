@@ -13,16 +13,6 @@
         "primary": true,
         "arrow": true,
         "label": "Facebook Group"
-      },
-      {
-        "link": "/contact",
-        "arrow": false,
-        "primary": false,
-        "label": "LinkedIn"
-      },
-      {
-        "label": "Twitter",
-        "link": "ht"
       }
     ],
     "image": "../images/cafe-2.jpg",
