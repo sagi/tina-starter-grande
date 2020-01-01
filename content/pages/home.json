@@ -3,7 +3,7 @@
   "blocks": [
     {
       "_template": "ContentBlock",
-      "content": "## Bootstrap your own thing!\n\n##### We're a community where founders of businesses and side projects can share their stories transparently, and where entrepreneurs can come to learn from those examples."
+      "content": "# Bootstrap your own thing!\n\nWe're a community where founders of businesses and side projects can share their stories transparently, and where entrepreneurs can come to learn from those examples.\n\n## Partners"
     }
   ],
   "hero": {
