@@ -4,6 +4,11 @@
     {
       "_template": "ContentBlock",
       "content": "# Bootstrap your own thing!\n\nWe're a community where founders of businesses and side projects can share their stories transparently, and where entrepreneurs can come to learn from those examples.\n\n## Partners"
+    },
+    {
+      "image": "../images/astro.svg",
+      "_template": "ImageBlock",
+      "content": ""
     }
   ],
   "hero": {
