@@ -9,10 +9,10 @@
   "hero": {
     "ctas": [
       {
-        "label": "Read The Blog",
-        "link": "/blog",
+        "link": "https://www.facebook.com/groups/indietlv",
         "primary": true,
-        "arrow": true
+        "arrow": true,
+        "label": "Facebook Group"
       },
       {
         "label": "Contact Us",
