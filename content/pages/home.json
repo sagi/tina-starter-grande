@@ -3,7 +3,7 @@
   "blocks": [
     {
       "_template": "ContentBlock",
-      "content": "# Bootstrap your own thing!\n\nWe're a community where founders of businesses and side projects can share their stories transparently, and where entrepreneurs can come to learn from those examples.\n\n## Partners"
+      "content": "# Bootstrap your own thing!\n\nWe're a community where founders of businesses and side projects can share their stories transparently, and where entrepreneurs can come to learn from those examples.\n\n## Leaders\n\n* Ohad Shviley \n* Hilal Habashi\n* Sagi Kedmi\n* Mor Shay\n\n## Partners\n\n* Google for Startups"
     },
     {
       "image": "../images/google_for_startups_small.png",
